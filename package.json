@@ -38,7 +38,7 @@
     "unix-dgram": "2.0.x"
   },
   "devDependencies": {
-    "eslint": "5.9.x",
+    "eslint": "10.4.x",
     "mocha": "4.x",
     "nyc": "14.x"
   },
